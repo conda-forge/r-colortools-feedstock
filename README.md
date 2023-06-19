@@ -1,11 +1,11 @@
-About r-colortools
-==================
+About r-colortools-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-colortools-feedstock/blob/main/LICENSE.txt)
 
 Home: https://cran.r-project.org/web/packages/colortools/index.html
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-colortools-feedstock/blob/main/LICENSE.txt)
 
 Summary: R package with handy functions to help users select and play with color schemes in an HSV color model
 
